@@ -1,0 +1,10 @@
+# Gradle文件目录
+.gradle
+
+# local配置文件
+local.properties
+
+# Intellij文件
+*.iml
+.idea
+.DS_Store
