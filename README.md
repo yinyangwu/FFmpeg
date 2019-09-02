@@ -230,9 +230,9 @@ ffmpeg -i input.mp4 -c:v libx264 -x264-params "profile=high:level=3.0" output.mp
 
 主要功能：
 
-高质量的H264+AAC视频压制
-ASS/SRT字幕内嵌到视频
-AAC/WAV/FLAC/ALAC音频转换
+高质量的H264+AAC视频压制<br>
+ASS/SRT字幕内嵌到视频<br>
+AAC/WAV/FLAC/ALAC音频转换<br>
 MP4/MKV/FLV的无损抽取和封装
 
 ### 15.使用ffmpeg推RTMP直播流
